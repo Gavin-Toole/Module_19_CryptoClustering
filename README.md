@@ -15,6 +15,8 @@ Use the StandardScaler() module from scikit-learn to normalize the data from the
 Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
 	The first five rows of the scaled DataFrame should appear as follows:
+ 
+	<img width="643" alt="image" src="https://github.com/Gavin-Toole/Module_19_CryptoClustering/assets/121550462/71a1f7e8-06bf-49a5-85de-00bc07ec7429">
 
 
 Find the Best Value for k Using the Original Scaled DataFrame
@@ -46,6 +48,8 @@ Optimize Clusters with Principal Component Analysis
 		What is the total explained variance of the three principal components?
 	Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 		The first five rows of the PCA DataFrame should appear as follows:
+	
+ 	<img width="643" alt="image" src="https://github.com/Gavin-Toole/Module_19_CryptoClustering/assets/121550462/370e2aeb-3731-4c86-8187-8a3990650d05">
 
 
 Find the Best Value for k Using the PCA Data
